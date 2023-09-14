@@ -16,7 +16,6 @@ export interface SearchManuFacturerProps {
 }
 
 export interface CarProps {
-  car:{
     city_mpg: number;
     class: string;
     combination_mpg: number;
@@ -29,5 +28,4 @@ export interface CarProps {
     model: string;
     transmission: string;
     year: number;
-  }
 }
