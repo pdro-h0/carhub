@@ -33,9 +33,9 @@ export const calculateCarRent = (city_mpg: number, year: number) => {
   return rentalRatePerDay.toFixed(0);
 };
 
-export const generateCarImageUrl = (car: CarProps, angle?: string) => {
-  const { make, model, year } = car;
-};
+// export const generateCarImageUrl = (car: CarProps, angle?: string) => {
+//   const { make, model, year } = car;
+// };
 
 export const updateSearchParams = (type: string, value: string) => {
   const searchParams = new URLSearchParams(window.location.search);
