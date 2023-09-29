@@ -1,3 +1,40 @@
+<h1 align="center"> CarHub </h1>
+
+<p align="center">
+Este projeto foi feito em aula do curso do JSMastery. <br/>
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="projeto CarHub" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Next 13
+- TypeScript
+- Tailwindcss
+- Headlessui
+- Git e Github
+
+## 💻 Projeto
+
+O “Carhub” é uma plataforma moderna e simples de showcase de
+carros.
+
+---
+
+Feito com ♥ by Pedro Henrique
+
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
